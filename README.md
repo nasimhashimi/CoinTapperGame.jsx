@@ -1,0 +1,1 @@
+# CoinTapperGame.jsx
